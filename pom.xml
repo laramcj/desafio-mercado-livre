@@ -6,7 +6,6 @@
   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <java.version>11</java.version>
   <packaging>war</packaging>
   <build>
     <resources>
