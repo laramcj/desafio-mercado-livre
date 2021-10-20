@@ -28,6 +28,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.2.3</version>
         <configuration>
+          <webXml>GulliverProject\WebContent\WEB-INF\web.xml</webXml>
           <warSourceDirectory>WebContent</warSourceDirectory>
         </configuration>
       </plugin>
